@@ -17,3 +17,8 @@ This is a simple example of a webpage with a video background.
 - Make sure your video file is in a format supported by browsers (e.g., MP4).
 - For best results, ensure the video dimensions are suitable for your webpage.
 - Test the webpage on different browsers to ensure compatibility.
+
+# Screenshot
+Here we have project screenshot :
+
+![screenshot](screenshot.png)
